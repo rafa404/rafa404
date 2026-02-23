@@ -84,15 +84,6 @@ CSE Student • Applied ML (Medical Imaging + NLP) • Reproducible Research
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa404&show_icons=true&locale=en&layout=compact&langs_count=12" alt="rafa404" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafa404&show_icons=true&locale=en&include_all_commits=true" alt="rafa404" /></p>
-
 <p>
   <img align="center" src="https://streak-stats.demolab.com?user=rafa404&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="rafa404 streak" />
 </p>
